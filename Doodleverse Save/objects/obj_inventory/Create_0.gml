@@ -1,0 +1,2 @@
+// control
+hover = 0
